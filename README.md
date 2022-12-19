@@ -1,2 +1,2 @@
 # factbook
-Analyzing CIA Facebook using SQL
+Analyzing CIA Factbook Data using SQL
